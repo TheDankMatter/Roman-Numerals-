@@ -13,7 +13,6 @@ public class RomanNumber {
             'D',500,
             'M',1000);
 
-
     RomanNumber(String romanNumber) {
         this.romanNumber = romanNumber;
     }
